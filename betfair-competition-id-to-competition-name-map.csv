@@ -1,0 +1,1123 @@
+competition_id,competition_name
+9,Austrian Erste Liga
+11,Dutch Eerste Divisie
+13,Brazilian Serie A
+15,Bulgarian A League
+17,Croatian 1 HNL
+19,Cypriot 1st Division
+23,Danish Superliga
+25,Danish 1st Division
+35,English League 1
+37,English League 2
+41,English National League North
+43,English National League South
+45,Finnish Veikkausliiga
+47,Finnish Ykkonen
+55,French Ligue 1
+57,French Ligue 2
+59,German Bundesliga
+61,German Bundesliga 2
+63,German Regionalliga North
+65,German Regionalliga Southwest
+67,Greek Super League
+77,Airtricity Premier Division
+81,Italian Serie A
+89,Japanese J League
+97,Polish Ekstraklasa
+99,Portuguese Primeira Liga
+101,Russian Premier League
+103,Serbian Super League
+105,Scottish Premiership
+107,Scottish Championship
+109,Scottish League One
+111,Scottish League Two
+113,Slovakian Super Liga
+115,Slovenian Premier League
+117,Spanish La Liga
+121,Spanish Segunda Division B - Group 1
+123,Spanish Segunda Division B - Group 2
+125,Spanish Segunda Division B - Group 3
+127,Spanish Segunda Division B - Group 4
+129,Swedish Allsvenskan
+133,Swiss Super League
+135,Swiss Challenge League
+139,Ukrainian Premier League
+141,US Major League Soccer
+228,UEFA Champions League
+818,Portuguese Super Cup
+2005,UEFA Europa League
+2134,English Football League Cup
+4051,Norwegian Cup
+4655,Copa Sudamericana
+4905,Romanian Liga I
+9513,Portuguese Segunda Liga
+11201,UEFA Super Cup
+12801,Spanish Copa del Rey
+13051,U19 Internationals
+18099,Swedish Cup
+19513,Dutch Cup
+19640,Portuguese League Cup
+20601,Finnish Cup
+22358,French League Cup
+29051,Swiss Cup
+30558,English FA Cup
+39218,AFC Champions League
+39770,Belgian Cup
+42886,English FA Trophy
+61351,Taca de Portugal
+62815,Copa Libertadores
+67387,Argentinian Primera Division
+89219,Brazilian Cup
+89979,Belgian First Division A
+97855,Slovakian Cup
+154811,Icelandic Cup
+155369,US Open Cup
+160501,Emirates Cup
+175680,Turkish 1 Lig
+194215,Turkish Super League
+194961,CONCACAF Champions League
+252549,Welsh Premiership
+299924,Welsh Cup
+300965,Ukrainian Cup
+309948,Bulgarian Cup
+309972,AFC Asian Cup
+311631,Dutch Playoffs
+318343,German Regionalliga Northeast
+319919,CONCACAF Gold Cup
+321319,Brazilian Serie B
+338432,Bulgarian Super Cup
+340643,English Community Shield
+403085,Polish I Liga
+409743,Scottish F.A. Cup
+483094,Brazilian Goiano
+530963,Ukrainian Super Cup
+540904,Croatian Super Cup
+542539,Belgian Super Cup
+544448,French Super Cup
+695030,Welsh League Cup
+744098,Chilean Primera Division
+801976,Egyptian Premier
+801998,Qatari Stars Cup
+802004,Egyptian Cup
+803237,Argentinian Primera B Nacional
+803690,Ecuadorian Serie A
+818765,Turkish 3 Lig
+819180,Hong Kong Senior Shield
+820582,English Isthmian Premier
+821269,Spanish Tercera Division
+822165,Israeli Premier League
+823306,Hong Kong Cup
+823332,Brazilian Sao Paulo Youth Cup
+827078,Mexican U20
+827754,Mexican Ascenso MX
+828464,U20 South American Championship
+833222,Turkish 2 Lig
+833616,Greek Football League
+833990,Hong Kong Premier League
+834025,Spanish Copa Federacion
+837616,Dutch Beloften Eerste Divisie (Youth)
+838020,Icelandic Fotbolti.net Cup
+839500,Syrian Premier League
+839575,Paraguayan Primera Division
+840808,German Regionalliga West
+840886,Malaysian Super League
+842258,Qatari Stars League
+843222,Jordan League
+843454,Uruguayan Primera Division
+844197,Colombian Primera A
+845654,U23 Internationals
+848322,Singapore S-League
+849220,Icelandic League Cup
+852072,Malaysian FA Cup
+852459,German A-Junioren Bundesliga (Youth)
+853948,German Regionalliga Bavaria
+854148,Colombian Cup
+855972,UAE Presidents Cup
+856134,Colombian Primera B
+857992,Chilean Primera B
+858443,Estonian Super Cup
+862579,Romanian Liga II
+862638,Czech 2 Liga
+868392,Russian Reserves
+868392,Russian Youth
+868823,Singapore Prime League
+872215,Ukrainian Persha Liga
+872276,Norwegian U19
+873203,Estonian Esiliiga
+874299,Cypriot 2nd Division
+879221,Lithuanian A Lyga
+879931,Chinese Super League
+880458,Russian Division 1
+886334,Danish U21
+887178,Virsliga
+888275,Belarusian Premier League
+892425,Czech 3 Liga
+895129,Azerbaijan Premier League
+900926,Jordan Cup
+920223,Swedish Division 2
+940730,Danish U19
+944127,Singapore Cup
+961354,Chilean Cup
+987643,CAF Champions League
+1062024,Japanese J League 2
+1065530,Venezuelan Primera Division
+1079277,Belarus League (W)
+1081960,French National
+1097799,English Central League
+1197683,Peruvian Cup
+1258941,Iranian Pro League
+1258941,Pro  League
+1327393,Maltese Premier League
+1345672,English Central League Cup
+1436284,Azerbaijan Cup
+1476085,Malaysian Premier League
+1517121,Macedonian 1st League
+1587980,Lithuanian 1 Lyga
+1661891,Latvian 1 Liga
+1738787,South Korean FA Cup
+1831264,Russian Super Cup
+1842928,Hungarian NB I
+1979279,Mexican Copa MX
+1987477,Czech U19
+2079376,Costa Rican Primera Division
+2273834,Georgian Umaglesi Liga
+2315454,Saudi 1st Division
+2371216,Jordan 1st Division
+2490975,Brazilian Paulista Serie A1
+2517464,Brazilian Copa do Nordeste
+2519611,Brazilian Paulista Serie A2
+2519695,Colombian Super Cup
+2539145,Maltese FA Trophy
+2609677,Moroccan Botola Pro 1
+2883157,Israeli Premier League (W)
+2888729,Armenian Premier League
+2901699,Estonian Esiliiga B
+3006957,Romanian Liga III
+3021702,Bosnian Cup
+3039423,Kuwaiti Emir Cup
+3039445,Costa Rican Liga de Ascenso
+3057583,Ecuadorian Serie B
+3061353,Armenian First League
+3085749,Chilean Segunda Division
+3127357,Bosnian Premier League
+3172302,Brazilian Serie C
+3271074,South African Playoff
+3297875,Thai Cup
+3374364,Croatian Super  Cup
+3446340,Chilean Super Cup
+3535821,International Champions Cup
+3583988,Brazilian Copa Paulista
+3729355,Bolivian Liga Nacional A
+3732159,UAE Super Cup
+3745022,Brazilian Copa FGF
+3765131,Croatian U19 League
+3784863,UEFA Youth League
+3785366,Japanese Football League
+3792498,Algerian U21
+3796898,Jamaican Premier League
+3889737,UAE League Cup
+3972877,Panamanian Premier League
+3992967,Croatian 2 HNL
+4081772,SPFL Reserve League
+4095837,Moroccan Cup
+4105812,UAE U19
+4203186,Kuwaiti Crown Prince Cup
+4212370,South African Cup
+4215067,Algerian Cup
+4381282,Liverpool Senior Cup
+4384863,Argentinian Super Cup
+4431442,Algerian Ligue 1
+4432552,Atlantic Cup
+4488516,Qatari Q League
+4488900,Saudi U20
+4512440,Argentinian Reserves
+4515700,Luxembourg Division Nationale
+4517491,Azerbaijan 1st Division
+4556576,Hungarian NB II
+4556656,Algerian Ligue 2
+4596954,English Isthmian League Cup
+4608119,Vietnamese National Cup
+4608858,Thai League 2
+4608865,Thai League 3
+4609592,Superliga (women)
+4643366,Egyptian 2nd Division
+4644373,Estonian U19
+4644792,Barbadian Matches
+4684340,Friendlies (W)
+4684362,CFU Club Championship
+4802285,Japanese J League 3
+4808016,Vietnamese 2nd Division
+4848838,Czech U21
+4851739,Uzbekistan Cup
+4875842,Brazilian Copa Verde
+5052774,Armenian Cup
+5165857,Portuguese Playoffs
+5281887,Finnish Kolmonen
+5618479,Israeli Liga Alef
+5627174,Mexican Liga MX
+5699678,Estonian II Liga
+5790028,South African Top 8 Cup
+5817495,Northern Irish League Cup
+5982310,Brazilian Copa Rio
+6023868,French Ladies
+6023868,French Women's Matches
+6104087,Uruguayan Segunda Division
+6182297,Gibraltar Premier Division
+6193239,UAE U21
+6251219,Indian Super League
+6294086,Hong Kong 1st Division
+6390405,Tunisian Cup
+6472933,Mexican U20 League Playoffs
+6506496,Macedonian Cup
+6533650,Georgian Super Cup
+6564385,Liga Nacional - Playoffs
+6566654,Guatemalan Liga Nacional
+6569630,Moroccan Botola 2
+6573805,UAE Division 1
+6603449,Scottish Lowland League
+6694981,Tunisian Ligue 2
+6812603,Guatemalan Primera Division de Ascenso
+6878901,CAF Super Cup
+6908995,Kuwaiti Premier League
+7030666,Bangalore Super Division League
+7063192,Kuwaiti Federation Cup
+7129730,English Championship
+7160078,Romanian Ladies
+7160078,Romanian Women's Matches
+7210007,Italian Serie D
+7247362,Ugandan Premier League
+7247364,Argentinian Primera D Metro
+7317471,Austrian Landesliga
+7317506,Austrian Regionalliga
+7344968,German Oberliga
+7348566,Irish Leinster Senior League
+7371016,San Marino Campionato
+7422406,Liechtenstein Cup
+7422970,Brazilian Paulista Serie A3
+7426251,Russian Ladies
+7426251,Russian Women's Matches
+7427367,COSAFA Cup
+7480739,Uruguayan Reserves
+7511144,Argentinian Primera C
+7552788,Luxembourg Cup
+7568908,Rwandan Cup Matches
+7596190,Croatian 3. HNL
+7616742,Kenyan Premier League
+7672122,CAF African Nations Championship
+7710075,Polish III Liga
+7861914,Uruguayan U19
+7897664,CECAFA Cup
+7946082,Ukrainian U21
+7980087,Brazilian Serie D
+7996831,English Ladies FA Cup
+7996831,English Women's FA Cup
+7998231,Danish 2nd Division
+8027582,Audi Cup
+8069554,Suruga Bank Championship
+8070418,Russian Football National League
+8083549,Israeli Super Cup
+8085064,Indonesian Cup
+8189587,Super League (women)
+8211415,Bulgarian U19 League
+8244827,Danish Series
+8285642,Armenian Super Cup
+8404098,Hong Kong Sapling Cup
+8410798,Algerian Super Cup
+8423138,Portuguese Campeonato Nacional
+8426338,Greek Football League U19
+8557218,Chinese Taipei Inter City League
+8594603,Peruvian Primera Division
+8771055,Salvadoran U20
+8825958,Cameroonese Elite One
+8872767,Argentinian Torneo Federal B
+8964557,Swiss 1 Liga Promotion
+8995647,Slovenian 2 SNL
+9081068,Brunei Super League
+9251272,Cambodian C-League
+9318138,Panama Liga Nacional de Ascenso Playoffs
+9356766,Peruvian Segunda Division
+9404054,Dutch Eredivisie
+9669750,Chilean Tercera Division
+9882094,EFL Trophy
+9992265,English Football League Trophy
+10020873,Japanese J League Cup
+10029990,Belgian First Amateur Division
+10156853,Swedish U21
+10186607,Fiji Inter District Championship
+10187098,Czech Rep Cup
+10308799,Irish Play-off
+10311486,Russian Cup
+10479956,Austrian Bundesliga
+10522035,COSAFA U20 Cup
+10533800,Turkish Cup
+10557073,Bangladesh Championship League
+10618470,Arena Cup
+10699940,South African Premier Division
+10854877,Polish Cup
+10885105,Landesliga
+10885117,Hungarian NB III
+10932509,English Premier League
+10947844,Swiss 1 Liga Classic
+10992446,Vietnamese U19
+11068551,Norwegian Eliteserien
+11086347,English National League
+11218258,Icelandic Super Cup
+11254421,Regional Cup Mecklenburg-Vorprommern
+11319314,Friendly International
+11324211,Slovenia Cup
+11340004,Romanian Playoffs
+11378609,Polish Super Cup 2018
+11380680,Chinese League 1
+11402597,Premier League Asia Trophy
+11420561,CONCACAF League
+11424392,Dutch Super Cup
+11428175,Turkish Super Cup
+11458113,German Cup
+11503700,Hungarian Cup
+11506084,Mongolian Premier League
+11553690,Qatari U23 League
+11569859,Slovenian Prva Liga
+11591693,German 3 Liga
+11618934,Omani Sultan Cup
+11620783,German Junioren Bundesliga
+11624804,Iranian Azadegan League
+11624925,Argentinian Primera C Metropolitana
+11624951,Iranian 2nd Division
+11627195,Montenegrin Cup
+11627247,Albanian Superliga
+11627570,Georgian Erovnuli Liga
+11633637,Argentinian Primera B Metropolitana
+11634648,Chinese Cup
+11635923,Omani Professional League
+11639448,Albanian Cup
+11641480,UAE Arabian Gulf League
+11644020,Lebanese Premier League
+11650378,Serbian U19
+11664665,Irish Munster Senior League
+11675182,Omani Professional League Cup
+11683636,Saudi Kings Cup
+11690123,Welsh Matches
+11692201,AFC U23 Championship
+11698341,Argentinian Torneo de Verano
+11709225,Israeli U19
+11713847,Danish Cup
+11717188,Belgian First Division B
+11717702,Irish Metropolitan Cup
+11717704,Czech Winter League
+11730241,Nigerian Premier League
+11770149,Austrian Amateurs
+11772783,Vietnamese Super Cup
+11780281,Georgia Erovnuli Liga 2
+11780281,Georgian Erovnuli Liga 2
+11794060,Malaysian FAM League
+11799196,Irish Ladies
+11799196,Irish Women's Matches
+11802732,Portuguese U19 Championship
+11804597,Faroe Premier League
+11805264,KNVB Beker U19
+11812477,Indian Super Cup
+11814475,Algerian U21 Ligue 1
+11822824,San Marino Cup
+11838780,Polish 2 Liga
+11839812,Zambian Premier League
+11841357,Russian PFL
+11853536,Swedish Division 1
+11856162,Norwegian U19 Interkrets
+11862194,Irish U19 National League
+11869656,Ethiopian Premier League
+11881199,Qatari Emir Cup
+11883317,Faroe Cup
+11887991,Finnish Kakkonen
+11889817,Chinese Taipei Matches
+11891653,Tanzanian Premier League
+11905641,Pakistan Challenge Cup
+11920814,Divizia Nationala
+11930267,Lithuania Cup
+11936455,Polish IV Liga
+11949988,Georgia Cup
+11965221,Romanian Super Cup 2019
+11975513,Thai Premier League
+11984200,UEFA Nations League
+11985323,Syrian Cup
+11988396,Thai Division 1
+11997260,UEFA Euro 2020
+11997429,AFC Champions League Qualifiers
+11997471,CECAFA Club Cup Matches
+11997475,CONMEBOL Copa Libertadores Qualifiers
+11997927,Indonesian Liga 2
+12000548,Uhrencup Matches
+12005105,Icelandic 2 Deild
+12005119,Icelandic Ladies
+12005119,Icelandic Women's Matches
+12005243,Swedish Ladies
+12005243,Swedish Women's Matches
+12005855,Irish Division 1
+12005859,Friendly Matches
+12005969,German Matches
+12006011,Reserve Friendlies
+12006121,Indian Matches
+12006123,Thai Matches
+12006127,South Korean Matches
+12006131,Kenyan Matches
+12006296,Russian Matches
+12006302,Indonesian Liga 1
+12006352,Icelandic 4 Deild
+12006844,Australian NPL - South Australia
+12006979,Indonesian Liga 3
+12007003,Bolivian Liga de Futbol Profesional
+12007015,Georgian Matches
+12007716,Norwegian Ladies
+12007716,Norwegian Women's Matches
+12007718,Mexican Ladies
+12007718,Mexican Women's Matches
+12007809,Israeli Toto Cup Leumit
+12008162,Chinese League 2
+12008241,Indian Calcutta Matches
+12008272,Ecuadorian Matches
+12008387,Danish Matches
+12008730,Polish Ladies
+12008730,Polish Women's Matches
+12009211,Philippines PFL
+12009363,Salvadoran Primera Division
+12009367,Finnish U20
+12009467,Moldovan Divizia Nationala
+12009917,Brazilian Ladies
+12009917,Brazilian Women's Matches
+12010162,Fiji Matches
+12010352,US Ladies
+12010352,US Women's Matches
+12010356,Japanese Ladies
+12010356,Japanese Women's Matches
+12010394,Scottish Ladies
+12010394,Scottish Women's Matches
+12010570,Icelandic 1 Deild
+12011007,Australian FFA Cup
+12011198,Malaysian President Cup
+12011775,Malaysian Matches
+12012526,Canadian Championship Matches
+12012789,AFC Cup
+12012945,Finnish Ladies
+12012945,Finnish Women's Matches
+12013112,Icelandic U19
+12013197,Scottish Highland League
+12013275,Belarussian Matches
+12013277,Paraguayan Segunda Divsion
+12013279,Northern Irish U20
+12013300,Slovakian Super League
+12013430,Italian Matches
+12013506,Northern Irish Ladies
+12013506,Northern Irish Women's Matches
+12014502,Icelandic 3 Deild
+12014986,Italian Youth
+12015496,Uruguayan Matches
+12016006,Trinidad and Tobago Matches
+12016693,Danish Ladies
+12016693,Danish Women's Matches
+12016770,Turkish U19
+12016856,Zambian Super Division
+12017923,Gibraltar Cup Matches
+12018068,Arab Club Championship
+12018616,Irish Leinster Senior Cup
+12019343,Ugandan Matches
+12020370,Angolan Girabola
+12021011,Iranian U23
+12021180,Belgian Matches
+12021635,Cameroonese Matches
+12022295,Bulgarian U19
+12022376,Slovakian U19
+12022957,Portuguese Matches
+12023032,South African National First Divsion
+12023200,Kuwaiti Super Cup
+12023202,Saudi Super Cup
+12024755,Japanese Emperor Cup
+12035236,Austrian Matches
+12036053,Honduras Matches
+12036162,English Southern Division 1
+12036250,Argentinian Matches
+12038731,Mexican Matches
+12038919,Croatian U19
+12040504,Austrian Ladies
+12040504,Austrian Women's Matches
+12040514,German Ladies
+12040514,German Women's Matches
+12040593,English FA Ladies Super League Cup
+12040593,English FA Women's Super League Cup
+12041129,Qatari Matches
+12041358,English Northern Division 1
+12042513,Friendlies Women's U20 Internationals
+12042513,Ladies International Youth Friendlies
+12043521,Slovakian Ladies
+12043521,Slovakian Women's Matches
+12044672,Indian Durand Cup
+12046526,Greek U19
+12046530,Philippines Matches
+12047249,US Matches
+12047988,Sudanese Premier League
+12050926,Belgian Ladies
+12050926,Belgian Women's Matches
+12052061,Dutch Ladies
+12052061,Dutch Women's Matches
+12053917,CAF African Nations Cup Qualifiers
+12053964,Brazilian Matches
+12053966,Czech Matches
+12054925,Chinese Matches
+12056956,UEFA Champions League (W)
+12057060,English County Cup Matches
+12057201,Iranian Cup
+12058099,English Matches
+12058392,Vietnamese Ladies
+12058392,Vietnamese Women's Matches
+12059760,Myanmar Matches
+12061890,Bahraini Matches
+12062795,Ivorian Ligue 1
+12064081,Argentinian Women's Matches
+12064975,Czech Women's Matches
+12064989,Northern Irish Matches
+12065422,Thai League Cup
+12066348,Tajikistan Matches
+12069023,Italian Serie A (W)
+12071239,South African Matches
+12073317,Israeli Matches
+12073505,Indian Bangalore Matches
+12074058,Moldovan Cup
+12074948,Dutch Matches
+12078798,Hong Kong Matches
+12081495,Belarusian 2nd Division
+12081663,Bahraini 2nd Division
+12082316,Omani Matches
+12083220,Sri Lankan Matches
+12089519,Pakistan Premier League
+12090419,Thai U19
+12091974,Panamanian Cup
+12095868,New Zealand Premiership
+12100271,Austrian Amateur Cup
+12101410,Argentinian Play-Offs
+12103207,Saudi 2nd Division
+12103215,Argentinian Primera D
+12103652,Argentinian Torneo A
+12108847,Australian A-League Women
+12108847,Australian W-League
+12108847,Australian W-League Ladies
+12110652,Andorran Primera Divisio
+12111762,Kosovan Superliga
+12112166,Bangladesh Matches
+12113602,Antiguan and Barbudan Matches
+12116629,Irish FAI Women's Cup
+12117172,Australian A-League
+12117172,Australian A-League Men
+12119414,Israeli Ladies
+12119414,Israeli Women's Matches
+12124491,Uzbekistan Matches
+12125428,Palestinian Matches
+12126424,Brazilian U19
+12128441,Japanese Matches
+12132540,Belarusian Women's Matches
+12132540,Belarussian Ladies
+12132540,Belarussian Women's Matches
+12133123,German Landesliga
+12133217,Salvadoran Matches
+12134265,Icelandic Matches
+12134845,US  Matches
+12136008,Kazakhstan Matches
+12137378,Czech 4 Liga
+12138177,Costa Rican U20
+12138767,Estonian Playoffs
+12140657,Chilean Matches
+12147472,CONMEBOL Copa America
+12147788,Danish Reserves
+12147796,CONMEBOL Copa Libertadores
+12148223,Brazilian U20
+12149039,CAF Confederation Cup
+12149093,Dutch U19
+12149496,Bolivian Liga Nacional B
+12149617,Belarusian Premier League
+12149617,Belarussian Premier League
+12149784,CONMEBOL Women's Copa Libertadores
+12150858,Belgian Reserves
+12151311,CAF Champions League Qualifiers
+12151370,Bahraini King's Cup
+12151960,AFF Championship
+12155057,Guyanese Matches
+12157918,Algerian Matches
+12159268,Jordanian Matches
+12159292,Bahraini FA Cup
+12160213,Dutch Tweede Klasse
+12162045,CAF U23 African Cup Of Nations
+12164283,Brazilian Carioca Matches
+12166516,UEFA Euro 2020 Qualifiers
+12168135,Hong Kong Women's Matches
+12170619,Tanzanian Matches
+12172193,Brazilian Cearense Matches
+12172888,Portuguese Ladies
+12172888,Portuguese Women's Matches
+12174956,Colombian Matches
+12176194,Brazilian Potiguar Matches
+12178917,Brazilian Sergipano Matches
+12179700,Brazilian Paraibano Matches
+12181991,Brazilian Catarinense Matches
+12184051,Brazilian Gaucho Matches
+12184071,Brazilian Mineiro Matches
+12184232,Brazilian Pernambucano Matches
+12184871,Estonian Matches
+12185071,Brazilian Paranaense Matches
+12185073,Brazilian Goiano Matches
+12185075,Brazilian Mato-Grossense Matches
+12185349,Brazilian Baiano Matches
+12185409,Brazilian Paraense Matches
+12185723,Brazilian Maranhense Matches
+12185789,Bangladesh  Premier League
+12185789,Bangladesh Premier League
+12185871,Argentinian Cup
+12185871,Copa Argentina
+12186255,Brazilian Piauiense Matches
+12186409,Brazilian Alagoano Matches
+12189326,Macau 1st Division
+12191691,Brazilian Brasiliense Matches
+12195627,Brazilian Capixaba Matches
+12196300,Brazilian Acriano Matches
+12196302,Brazilian Sul-Mato-Grossense Matches
+12197622,CAF U20 African Championship
+12198720,Finnish Matches
+12199341,English Isthmian Division 1
+12199351,English Southern Premier League
+12199359,Northern Irish Premiership
+12199393,Indian I-League
+12199413,Spanish Division de Honor Youth
+12199505,Scottish Reserve Matches
+12199507,Italian Serie C Cup
+12199511,Dutch Reserves
+12199513,Italian  Serie  C
+12199513,Italian Serie C
+12199513,zzzItalian Serie  C
+12199652,Indian Mumbai Elite League
+12199658,Indian Santosh Trophy
+12199685,English Premier League 2 - Div 1
+12199687,English Isthmian Premier League
+12199689,Italian Serie B
+12200314,English Northern League Challenge Cup
+12200369,Friendlies Ladies International
+12200369,Friendlies Women's International
+12200445,Brazilian Amazonense Matches
+12200460,Italia Campionato Primavera
+12200497,English Southern League Cup
+12200621,Nicaraguan Primera Division
+12200650,Friendlies Ladies
+12200650,Women's Friendlies
+12200652,Jordanian Premier League
+12200817,Friendlies International U19
+12200871,Irish President's Cup
+12200889,English Northern Premier League
+12201049,Israeli Liga Bet
+12201163,Mexican Segunda Division
+12201267,English U23 Pro Development League
+12201488,Palestinian West Bank League
+12201568,English U23 Premier League Cup
+12201574,Italian Campionato Primavera
+12201576,Spanish Ladies
+12201576,Spanish Women's Matches
+12201580,Russian FNL Cup
+12201599,Icelandic Faxafloi Cup Ladies
+12201605,Northern Irish Championship
+12202087,Hong Kong 1st Division League
+12202208,Kuwaiti Division 1
+12202271,Honduras Liga Nacional
+12202273,English FA Ladies Super League 1
+12202273,English FA Women's Super League 1
+12202373,Swedish Superettan
+12202708,Hong Kong 2nd Division League
+12203299,German Regional Cup
+12203305,French U19
+12203351,Scottish Challenge Cup
+12203971,Irish Premier Division
+12204157,Friendlies Ladies U19 Internationals
+12204157,Friendlies Women's U19 Internationals
+12204202,Austrian Cup
+12204204,Czech 1 Liga
+12204279,Hong Kong Reserves
+12204313,Spanish Segunda Division
+12204371,Cameroonese Elite One
+12204514,Japanese Super Cup
+12204604,CONMEBOL Copa Sudamericana
+12204606,English Ladies
+12204606,English Women's Matches
+12205166,Friendlies International
+12205806,Israeli National League
+12205840,English Premier League 2 - Div 2
+12206014,Bahraini Premier
+12206060,French National 2
+12206102,Venezuelan Segunda Division
+12206120,Gibraltar Premier League
+12206236,Bangladesh Champions League
+12206252,Italian Campionato Youth
+12206415,Hungarian U19
+12206543,French National 3
+12206577,Friendlies International U23
+12206708,Scottish Cup Matches
+12206708,Scottish FA Cup
+12207116,Welsh Women's Matches
+12207867,Egyptian Premier League
+12208093,U22 Internationals
+12208242,Montenegrin 1st League
+12208328,Italian Lega Pro
+12208328,Italian Serie  C
+12208703,Indian I-League 2nd Division
+12208844,AFC Cup Qualifiers
+12208952,Indian Goa Professional League
+12209059,Vietnamese V-League
+12209081,Panamanian Matches
+12209355,Rwandan National Football League
+12209362,Jordanian Cup
+12209388,Thai League 1
+12209405,Saudi Premier
+12209405,Saudi Professional League
+12209518,German Super Cup
+12209520,Spanish Super Cup
+12209522,Coppa Italia
+12209528,Africa Cup of Nations
+12209528,CAF African Nations Cup
+12209546,Norwegian 1st Division
+12209548,UEFA U19 Euro Championship
+12209550,South Korean K League Classic
+12209556,Icelandic Urvalsdeild
+12209560,French Cup
+12209621,Portuguese U23
+12209811,English FA Vase
+12210101,Singapore Matches
+12210379,Lithuanian Super Cup
+12210525,Tunisian Ligue Professionelle 1
+12211021,Greek Cup
+12211029,Saudi U19
+12211692,Romanian Cup
+12212004,Algarve Cup
+12212212,Israel Cup
+12212389,Ladies International Algarve Cup
+12212389,Women's International Algarve Cup
+12212391,Ladies International Cyprus Cup
+12212391,Women's International Cyprus Cup
+12212459,Serbian First League
+12212740,Italian Serie D Cup
+12212854,Belarussian Super Cup
+12213239,Nicaraguan Matches
+12213681,N Irish Cup Matches
+12213822,South Korean K League Challenge
+12213874,Icelandic League Cup B
+12213922,Euro 2020 Qualifiers
+12213964,German U19
+12214072,US National Premier Soccer League
+12214087,Kazakhstan Super Cup
+12214157,Paraguayan Division Profesional
+12214252,Irish EA Sports Cup
+12214429,Italian Cup
+12214445,Montenegrin 2nd League
+12215627,Malaysian Cup
+12215675,Spanish Catalunya Super Cup
+12215677,Slovakian 2 Liga
+12215863,Australian NPL - Northern NSW
+12216169,Ukrainian U19
+12216175,Estonian Premier League
+12216341,Palestinian Cup
+12216449,Belarusian Cup
+12216449,Belarussian Cup
+12216489,Kazakhstan Premier League
+12216491,Icelandic League Cup C
+12216637,US United Soccer League
+12216976,Latvian Virsliga
+12217260,Guatemalan Matches
+12217764,Youth Tournament
+12217935,Australian FFA Cup Qualifiers
+12218107,Serbian Cup
+12218541,Norwegian Super Cup
+12218844,Portuguese Cup
+12218903,Russian Professional Football League
+12218994,Panamanian Liga Nacional de Ascenso
+12219317,Friendlies International U22
+12219947,UEFA U19 Euro Qualifiers
+12220065,Friendlies International U21
+12220074,Kazakhstan Cup
+12220206,UEFA Ladies Champions League
+12220206,UEFA Women's Champions League
+12220428,Friendlies International U20
+12220485,FIFA Women's World Cup
+12220487,UEFA U21 Euro Championship
+12220487,UEFA U21 Euro Qualifiers
+12220585,CONCACAF Nations League Qualifiers
+12220916,Brazilian Amapaense Matches
+12221009,Slovenian 3 SNL
+12221393,Croatian Matches
+12221395,Slovakian 3 Liga
+12221822,South Korean Cup
+12221864,Romanian Cup
+12221992,Hungarian Women's Matches
+12222406,Laotian Premier League
+12222414,Belarusian Reserves
+12222414,Belarussian Reserves
+12222436,Dominican Republic Matches
+12223301,Macedonian 2nd League
+12223307,UEFA Ladies U19 Euro Championship
+12223307,UEFA Women's U19 Euro Championship
+12223451,Ladies International
+12223451,Women's International Matches
+12223731,Vietnamese V-League 2
+12223733,Kazakhstan 1st Division
+12223795,Ecuadorian Reserves
+12224231,Brazilian Paulista Matches
+12224337,Mongolian Matches
+12224650,Norwegian Matches
+12224708,Ladies Matches
+12224708,Women's Matches
+12224787,Belarusian 1st Division
+12224787,Belarussian 1st Division
+12224917,Norwegian 2nd Division
+12224943,Brazilian Campeonato Cearense B
+12224979,Norwegian 3rd Division
+12225162,Argentinian Superliga Cup
+12226103,Croația Cupă
+12226103,Croatian Cup
+12226174,Dutch Beloften Eredivisie Reserves
+12226205,Georgian Cup
+12226356,Irish FAI Cup
+12226380,Grenada Premier Division
+12227137,Czech Cup
+12228076,Estonian Cup
+12228139,Slovenian Cup
+12229397,Ghanain Matches
+12229735,AFC Women Asian Cup Qualifiers
+12229960,Spanish Copa de Catalunya
+12230317,Northern Irish Prom/Rel Playoffs
+12230985,Scottish Playoffs
+12231244,Brazilian Paulista U23
+12231412,Bhutan Matches
+12231751,Canadian Premier League
+12231975,US Premier Development League
+12232258,Faroe 1 Deild
+12232624,Israeli Cup
+12232830,Malawi Matches
+12232895,US Lamar Hunt U.S Open Cup
+12233279,Vietnamese Second Division
+12233576,FIFA U20 World Cup
+12234017,French Ligue 2 Playoffs
+12234469,German Playoff
+12234880,Greek Playoffs
+12234914,CONMEBOL Recopa Sudamericana
+12235224,Brazilian U23
+12235641,Spanish Segunda B Playoffs
+12235831,Brazilian Campeonato Carioca B
+12235849,French Ligue 1 Playoffs
+12236110,Israeli Playoffs
+12236128,Croatian Playoffs
+12236312,Slovenian Playoffs
+12236364,Russian Playoff
+12236883,Friendlies Women's U23 Internationals
+12237083,Croatian Women's Matches
+12237128,Serbian Women's Matches
+12237567,Romanian Matches
+12237685,UEFA U21 Euro Qualifiers
+12237889,Polish Matches
+12237983,FIFA World Cup Qualifiers
+12237983,World Cup Qualifiers
+12237985,Lithuanian Women's Matches
+12238093,Paraguayan Cup
+12238326,Malawi Super League
+12238328,Estonian Women's Matches
+12239666,Kazakhstan Reserves
+12239668,Maldives Matches
+12241182,Vietnamese U21
+12241407,Iraqi Premier League
+12241814,Nicaraguan U20
+12241987,Bulgarian Women's Matches
+12242357,UEFA Champions League Qualifiers
+12243189,Chilean U21
+12243193,Myanmar U19
+12243231,UEFA Europa League Qualifiers
+12243482,Bolivian Matches
+12243514,Myanmar U21
+12244027,Peruvian Copa Bicentenario
+12244578,University Matches
+12245225,Mexican Supercopa MX
+12246304,Malaysian U19
+12246418,Scottish League Cup
+12246908,UEFA Nations League D
+12246958,Colombian Ladies
+12246958,Colombian Women's Matches
+12246992,Iraqi Matches
+12247367,Mexican Trofeo de Campeon de Campeones
+12247754,Elite Friendlies
+12248145,Bhutan Premier League
+12249612,Jordanian Women's Matches
+12250737,North American Leagues Cup
+12251791,Football Olympics 2020
+12251791,Olympics 2020
+12251791,Other Competitions Soccer
+12252239,Venezuelan Cup
+12252402,Cameroonese Women's Matches
+12252574,Ladies Pan Am Games
+12253539,U20 Internationals
+12254668,Pan Am Games
+12254994,La Liga Serie A Cup
+12255368,English FA Cup Qualifiers
+12255380,Maldives Dhivehi League
+12255386,Ugandan Division 2
+12255717,CAF Confederation Cup Qualifiers
+12256716,International Champions Cup Ladies
+12256716,Women's International Champions Cup
+12257288,Qatari Sheikh Jassem Cup
+12258143,Brazilian Copa Fares Lopes
+12258334,Mozambique Mocambola
+12258789,Malian Premiere Division
+12259268,Montenegrin Matches
+12259959,UEFA Ladies Euro Champ'ship Qualifiers
+12259959,UEFA Women's Euro Champ'ship Qualifiers
+12260547,Ladies Olympic Qualifiers
+12260547,Olympic Women's Qualifiers
+12260994,CAF Women's African Nations Qualifiers
+12263862,Maltese 1st Division
+12264428,Swiss Women's Matches
+12264464,Greek Matches
+12264792,Egyptian Super Cup
+12265483,Aruban Division di Honor
+12266107,Portuguese League Cup
+12266107,Taca da Liga
+12266697,WAFU Nations Cup
+12267015,Lithuanian Cup
+12267123,Greek Super League 2
+12267544,Irish Play-Offs
+12267684,Kuwaiti U20
+12267722,CONCACAF Women's Matches
+12268510,English FA Ladies Super League 2
+12269270,CONCACAF Nations League A
+12269272,CONCACAF Nations League B
+12269274,CONCACAF Nations League C
+12271450,Turkish Ladies
+12273791,Burundi Premier League
+12274242,Swedish Playoffs
+12274351,Derbyshire Senior Cup Matches
+12274671,Irish Champions Cup
+12274953,Chinese Playoffs
+12275087,English FA Ladies Premier League
+12275960,Algerian U19
+12276354,Norwegian Playoffs
+12276464,Italian Super Cup
+12276486,Reserves Matches
+12276488,Reserve Matches
+12276499,Albanian Matches
+12276557,Gulf Cup Matches
+12276589,Panamanian Ladies
+12276605,AFC Ladies Asian Cup
+12276689,Asian Games Men
+12276755,FIFA Club World Cup
+12276763,Asian Games Ladies
+12276969,South Korean Playoffs
+12276975,Senegalese Ligue 1
+12277013,East Asian Cup
+12277166,Nepalese Matches
+12277178,Hong Kong 3rd Division League
+12277373,Turkish Matches
+12277884,Ghanain Premier League
+12278058,Icelandic Reykjavik Cup
+12278604,Senegalese Matches
+12278844,Aruban Matches
+12279225,Qatari Crown Prince Cup
+12280225,Brazilian Super Cup
+12280248,CONMEBOL U23
+12280704,Fijian U19
+12280706,Slovenian U19
+12281059,Icelandic Faxafloi Cup Ladies
+12281061,Icelandic Reykjavik Cup Ladies
+12281065,Argentinian Cup Qualifiers
+12281287,International Matches
+12281695,Peruvian Super Cup
+12281822,Indian Ladies
+12285374,Saint Kitts and Nevis Premier League
+12286698,CONCACAF Ladies U20 Cup
+12286991,Ghanain FA Cup
+12287798,Indian U19
+12287940,Jordanian Super Cup
+12287962,Estonia Super Cup
+12288508,SheBelievesCup
+12288617,CONMEBOL Ladies U20 Championship
+12289222,Solomon Islands Matches
+12289393,Haitian Matches
+12289407,Chilean Ladies
+12289428,Benin Matches
+12289556,Gambian Matches
+12289829,Ladies U19
+12289904,Burundi Presidents Cup
+12290125,Tajikistani Higher League
+12290125,Tajikistani Premier League
+12290206,Taiwanese Football Premier League
+12290224,Taiwanese Ladies
+12290316,Turkmenistan Higher League
+12290342,Friendlies
+12290424,Nicaraguan Playoffs
+12290625,South Korean K3 League
+12290655,Turkmenistan First League
+12290699,Faroe Ladies
+12291275,MLS is Back Tournament
+12291539,US NWSL Challenge Cup
+12291624,Mexican Copa GNP
+12291951,Spanish Regional League
+12292477,Polish Super Cup
+12292686,Bulgarian B League
+12292690,Costa Rican Super Cup
+12295118,English Ladies FA Community Shield
+12298787,Maltese Matches
+12299665,Mauritanian Ligue 1
+12300963,Spanish Segunda Division B - Group 5
+12303018,COSAFA Ladies Championship
+12305199,US United Premier Soccer League
+12305357,Brazilian Roraimense Matches
+12305385,Indian FA Shield
+12305525,Syrian 2nd Division
+12306595,Gambian GFA League 1st Division
+12306619,UAE Matches
+12308307,Thai Playoffs
+12309311,Malian Matches
+12312680,Spanish Segunda Ladies
+12314069,Argentinian U20
+12314495,Romanian Reserves
+12323165,Romanian Super Cup
+12323876,Indonesian Inter Island Cup
+12324198,US USL League One
+12325433,Spanish Cup Ladies
+12325689,Togolese Premiere Division
+12331715,US National Women Soccer League
+12333295,Ethiopian Matches
+12335655,Austrian Playoffs
+12336664,Baltic Cup
+12339529,Colombian U19
+12340464,German Women's Bundesliga
+12340466,German Women's Bundesliga 2
+12342021,German Regionalliga Playoffs
+12351533,UEFA Europa Conference Qualifiers
+12351659,Men's Olympics 2020
+12367572,Mozambique Matches
+12374160,FIFA World Cup Qualifiers - Europe
+12374182,FIFA World Cup Qualifiers - Americas
+12374618,FIFA World Cup Qualifiers - Asia
+12375833,UEFA Europa Conference League
+12377703,FIFA World Cup Qualifiers - Africa
+12383127,Spanish Primera Division RFEF Group 1
+12383129,Spanish Primera Division RFEF Group 2
+12386458,FIFA Ladies World Cup Qualifiers
+12395639,South Korean K League 1
+12395641,South Korean K League 2
+12403647,Uruguayan Ladies
+12404083,Indian Delhi Matches
+12416961,CONCACAF U20 Cup Qualifiers
+12421292,Puerto Rican Liga Nacional de Futbol
+12423218,Brazilian U21
+12424184,Brazilian Reserve
+12426395,FIFA Arab Cup
+12430318,Venezuelan U20
+12432064,Puerto Rican Matches
+12433577,Paraguayan Matches
+12444373,Egyptian League Cup
+12451652,Portuguese Liga 3
+12454221,Arnold Clark Cup
+12456469,Maltese 2nd Division
+12459209,German Verbandsliga
+12459790,South Korean Reserves
+12464123,Spanish Primera Nacional Ladies
+12464225,FIFA World Cup Qualifiers - Oceania
+12469077,FIFA World Cup
+,
