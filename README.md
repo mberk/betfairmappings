@@ -8,7 +8,6 @@
 
 ## Planned Mappings
 
-* Betfair event ID to competition ID
 * Betfair competition ID to competition name for other sports
 * Betfair IDs to third party IDs such as Timeform, Stats Perform, etc.
 
