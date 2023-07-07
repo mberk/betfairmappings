@@ -2,7 +2,7 @@
 
 ## Current Mappings
 
-* Betfair competition ID to competition name (Football only)
+* Betfair competition ID to competition name
 * Betfair selection ID to runner name
 * Betfair market ID to event ID
 * Betfair event ID to competition ID
